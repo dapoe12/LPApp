@@ -1,2 +1,2 @@
 # LPApp
-Domino's Lost Productivity App
+Lost Productivity Android App
